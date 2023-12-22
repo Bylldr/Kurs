@@ -1,0 +1,24 @@
+﻿  Source.c
+C:\Users\Виктор\source\repos\Project8\Project8\Source.c(128,10): warning C4101: username: неиспользованная локальная переменная
+C:\Users\Виктор\source\repos\Project8\Project8\Source.c(126,12): warning C4101: y: неиспользованная локальная переменная
+C:\Users\Виктор\source\repos\Project8\Project8\Source.c(126,25): warning C4101: choose: неиспользованная локальная переменная
+C:\Users\Виктор\source\repos\Project8\Project8\Source.c(126,9): warning C4101: x: неиспользованная локальная переменная
+C:\Users\Виктор\source\repos\Project8\Project8\Source.c(127,10): warning C4101: temp: неиспользованная локальная переменная
+C:\Users\Виктор\source\repos\Project8\Project8\Source.c(126,33): warning C4101: exit: неиспользованная локальная переменная
+C:\Users\Виктор\source\repos\Project8\Project8\Source.c(126,15): warning C4101: attempts: неиспользованная локальная переменная
+C:\Users\Виктор\source\repos\Project8\Project8\Source.c(154,22): warning C4477: "fscanf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "char **"
+C:\Users\Виктор\source\repos\Project8\Project8\Source.c(154,22): warning C4477: "fscanf": в строке форматирования "%d" требуется аргумент типа "int *", но вариативный аргумент "2" имеет тип "int **"
+C:\Users\Виктор\source\repos\Project8\Project8\Source.c(154,22): warning C4477: "fscanf": в строке форматирования "%d" требуется аргумент типа "int *", но вариативный аргумент "3" имеет тип "int **"
+C:\Users\Виктор\source\repos\Project8\Project8\Source.c(155,12): warning C4477: "printf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "char **"
+C:\Users\Виктор\source\repos\Project8\Project8\Source.c(155,12): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "2" имеет тип "int *"
+C:\Users\Виктор\source\repos\Project8\Project8\Source.c(155,12): warning C4313: printf: конфликт "%d" в строке формата с аргументом 2 типа "int *"
+C:\Users\Виктор\source\repos\Project8\Project8\Source.c(155,12): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "3" имеет тип "int *"
+C:\Users\Виктор\source\repos\Project8\Project8\Source.c(155,12): warning C4313: printf: конфликт "%d" в строке формата с аргументом 3 типа "int *"
+C:\Users\Виктор\source\repos\Project8\Project8\Source.c(158,45): warning C4028: формальный параметр 3 отличается от объявления
+C:\Users\Виктор\source\repos\Project8\Project8\Source.c(231,31): warning C4047: функция: "int *" отличается по уровням косвенного обращения от "int"
+C:\Users\Виктор\source\repos\Project8\Project8\Source.c(231,31): warning C4024: readUserData: различные типы для формального и фактического параметров 2
+C:\Users\Виктор\source\repos\Project8\Project8\Source.c(231,37): warning C4047: функция: "int *" отличается по уровням косвенного обращения от "int"
+C:\Users\Виктор\source\repos\Project8\Project8\Source.c(231,37): warning C4024: readUserData: различные типы для формального и фактического параметров 3
+C:\Users\Виктор\source\repos\Project8\Project8\Source.c(102): warning C4715: printFileData: значение возвращается не при всех путях выполнения
+C:\Users\Виктор\source\repos\Project8\Project8\Source.c(157): warning C4715: readUserData: значение возвращается не при всех путях выполнения
+  Project8.vcxproj -> C:\Users\Виктор\source\repos\Project8\x64\Debug\Project8.exe
